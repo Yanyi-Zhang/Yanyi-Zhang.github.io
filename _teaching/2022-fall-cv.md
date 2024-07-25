@@ -8,6 +8,7 @@ date: 2022-09-01
 location: "Dalian, China"
 ---
 
+This is a description of a teaching experience. You can use markdown like any other post.
 
 * Semester: Fall 2022
 * Language: Japanese & Mandarin
