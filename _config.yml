@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Third-year postgraduate student at Dalian University of Technology. Seeking a PhD position for Fall 2025"
   location         : "Dalian, China"
-  employer         : "Dalian University of Technology"
+  # employer         : "Dalian University of Technology"
   uri              : # URL
   email            : "yanyi.zhang@mail.dlut.edu.cn" 
 
