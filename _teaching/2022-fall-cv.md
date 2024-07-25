@@ -7,6 +7,8 @@ venue: "International School of Information Science & Engineering, Dalian Univer
 date: 2022-09-01
 location: "Dalian, China"
 ---
+
+
 * Semester: Fall 2022
 * Language: Japanese & Mandarin
 * Instructor: Liang Li & Qi Jia
