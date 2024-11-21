@@ -15,6 +15,7 @@ Recently, I have been searching for PhD opportunities for Fall 2025. If you are 
 
 News
 ======
+* I was honored to receive China National Scholarship.🥳🤩😆
 * The first-authored paper "Not Just Object, But State: Compositional Incremental Learning without Forgetting" is accepted by NeurIPS 2024.🎉🎉🎉
 * The second-authored paper “Temporal Refinement and Multi-grained Matching for Moment Retrieval and Highlight Detection” is accepted by China Multimedia 2024 and recommended to Multimedia System.🎉🎉🎉
 * The first-authored paper “CSCNet: Class-Specified Cascaded Network for Compositional Zero-Shot Learning” is accepted by ICASSP 2024.🎉🎉🎉
