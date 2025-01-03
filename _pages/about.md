@@ -15,6 +15,7 @@ Recently, I have been searching for PhD opportunities for Fall 2025. If you are 
 
 News
 ======
+* I will serve as a Program Committee Member for IJCAI-25.
 * I was recognized as an Outstanding Graduate of both Liaoning Province and Dalian University of Technology.
 * I served as a reviewer for Applied Intelligence.
 * I was honored to receive the China National Scholarship for the 2023/24 academic year.🥳🤩😆
