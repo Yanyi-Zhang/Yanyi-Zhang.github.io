@@ -41,7 +41,7 @@ TA for Computer Vision, Fall 2022<br>
 At Ritsumeikan University and Dalian University of Technology
 
 TA for Scientific and Technical Ethics, Spring 2024<br>
-AT Dalian University of Technology
+At Dalian University of Technology
 
 ## Services
 
