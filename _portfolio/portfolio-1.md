@@ -1,5 +1,5 @@
 ---
-title: "Photo with Dr. Yasuyuki Matsushita"
+title: "Photo with Dr. Yasuyuki Matsushita at Dalian"
 excerpt: "<img src='/images/Matsushita.png' width='500'>"
 collection: portfolio
 ---
