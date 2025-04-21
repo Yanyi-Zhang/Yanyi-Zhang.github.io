@@ -9,8 +9,8 @@ main:
   # - title: "Resources"
   #   url: /#-resources    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Misc"
+    url: /portfolio/
         
   # - title: "News"
   #   url: "/#-news"
