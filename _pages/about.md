@@ -33,7 +33,7 @@ Yu Liu, Jianghao Li, <u>Yanyi Zhang</u>, Qi Jia, Weimin Wang, Nan Pu, Nicu Sebe
 
 ## 📄Resources
 
-Awesome Compositional Zero-Shot [GitHub](https://github.com/Yanyi-Zhang/Awesome-Compositional-Zero-Shot)
+[Awesome Compositional Zero-Shot](https://github.com/Yanyi-Zhang/Awesome-Compositional-Zero-Shot) ![GitHub](https://img.shields.io/github/stars/Yanyi-Zhang/Awesome-Compositional-Zero-Shot.svg?style=social)
 
 ## 👨‍🏫Teaching
 
@@ -48,6 +48,7 @@ At Dalian University of Technology
 ### Conference Reviewer
 * NeurIPS: 2025
 * IJCAI: 2025
+* ECAI: 2025
 * IJCNN: 2025
 
 ### Journal Reviewer
