@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m an incoming Ph.D. student at **Michigan State University**, where I will be working under the guidance of [Professor Xiaoming Liu](https://www.cse.msu.edu/~liuxm/index2.html).  My research interests are predominantly in Computer Vision and Multi-modal Learning, with a specific emphasis on Continual Learning, Compositional Zero-Shot Learning. I am passionate about exploring these areas to contribute to advancements in the field. Previously, I was fortunate to be supervised by [Prof. Yu Liu](https://liuyudut.github.io) and [Prof. Qi Jia](http://faculty.dlut.edu.cn/guqi/zh_CN/index.htm) at Dalian University of Technology.
+Hey there! I’m an incoming Ph.D. student at **Michigan State University**, where I will be working under the guidance of [Prof. Xiaoming Liu](https://www.cse.msu.edu/~liuxm/index2.html).  My research interests are predominantly in Computer Vision and Multi-modal Learning, with a specific emphasis on Continual Learning, Compositional Zero-Shot Learning. I am passionate about exploring these areas to contribute to advancements in the field. Previously, I was fortunate to be supervised by [Prof. Yu Liu](https://liuyudut.github.io) and [Prof. Qi Jia](http://faculty.dlut.edu.cn/guqi/zh_CN/index.htm) at Dalian University of Technology.
 
 ## 📖Publications
 
