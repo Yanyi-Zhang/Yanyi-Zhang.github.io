@@ -52,4 +52,5 @@ At Dalian University of Technology
 * IJCNN: 2025
 
 ### Journal Reviewer
+* TCSVT
 * Applied Intelligence
