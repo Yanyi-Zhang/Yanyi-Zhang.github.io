@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yanyi Zhang"
 title_separator          : "-"
 name                     : &name "Yanyi Zhang"
-description              : &description "Third-year postgraduate student at Dalian University of Technology."
+description              : &description "Incoming PhD student at Michigan State University."
 url                      : https://yanyi-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yanyi-Zhang/Yanyi-Zhang.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "IMG_1953.png"
   name             : "Yanyi Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Third-year postgraduate student at Dalian University of Technology."
+  bio              : "Incoming PhD student at Michigan State University."
   location         : "Dalian, China"
   # employer         : "Dalian University of Technology"
   uri              : # URL
-  email            : "yanyi.zhang@mail.dlut.edu.cn" 
+  email            : "zhan2562@msu.edu" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
