@@ -46,11 +46,11 @@ At Dalian University of Technology
 ## 👔Services
 
 ### Conference Reviewer
-* NeurIPS: 2025
-* IJCAI: 2025
-* ECAI: 2025
-* IJCNN: 2025
+* Annual Conference on Neural Information Processing Systems (NeurIPS)
+* International Joint Conference on Artificial Intelligence (IJCAI)
+* European Conference on Artificial Intelligence (ECAI)
+* International Joint Conference on Neural Networks (IJCNN)
 
 ### Journal Reviewer
-* TCSVT
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 * Applied Intelligence
