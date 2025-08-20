@@ -31,6 +31,10 @@ Cunjuan Zhu, <u>Yanyi Zhang</u>, Qi Jia, Weimin Wang, Yu Liu
 Computer Vision and Image Understanding (CVIU), 2024<br>
 Yu Liu, Jianghao Li, <u>Yanyi Zhang</u>, Qi Jia, Weimin Wang, Nan Pu, Nicu Sebe
 
+<img src="https://img.shields.io/badge/Under Review-54b345?style=flat-square"> **Time Series Class-Incremental Learning Via Temporal and Visual Joint Representation**<br>
+Jinping Sui, Hui Wang, <u>Yanyi Zhang</u>, Qi Jia, Yitao Wang, Yu Liu
+
+
 ## 📄Resources
 
 [Awesome Compositional Zero-Shot](https://github.com/Yanyi-Zhang/Awesome-Compositional-Zero-Shot) ![GitHub](https://img.shields.io/github/stars/Yanyi-Zhang/Awesome-Compositional-Zero-Shot.svg?style=social)
