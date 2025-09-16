@@ -59,5 +59,5 @@ At Dalian University of Technology
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 * Applied Intelligence
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1VM3OZWvR7lkUUtJkU1nth7TVhefPJwkI23wPZS_xaY&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1VM3OZWvR7lkUUtJkU1nth7TVhefPJwkI23wPZS_xaY&cl=ffffff&w=200"></script>
 
