@@ -58,6 +58,7 @@ At Dalian University of Technology
 ### Journal Reviewer
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 * Applied Intelligence
+* International Journal of Multimedia Information Retrieval
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1VM3OZWvR7lkUUtJkU1nth7TVhefPJwkI23wPZS_xaY&cl=ffffff&w=200"></script>
 
