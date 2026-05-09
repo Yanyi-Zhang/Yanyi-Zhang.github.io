@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Yanyi Zhang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -34,6 +34,9 @@ Yu Liu, Jianghao Li, <u>Yanyi Zhang</u>, Qi Jia, Weimin Wang, Nan Pu, Nicu Sebe
 <img src="https://img.shields.io/badge/Under Review-54b345?style=flat-square"> **Time Series Class-Incremental Learning Via Temporal and Visual Joint Representation**<br>
 Jinping Sui, Hui Wang, <u>Yanyi Zhang</u>, Qi Jia, Yitao Wang, Yu Liu
 
+## 🎤Talks
+Apr 28, 2026 — Speaker at Google Pixel Biometrics Seminar  
+Talk: **Can Image Generation Models Learn and Replicate the Real Imagery Distribution?**
 
 ## 📄Resources
 
