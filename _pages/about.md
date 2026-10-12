@@ -31,9 +31,6 @@ Cunjuan Zhu, <u>Yanyi Zhang</u>, Qi Jia, Weimin Wang, Yu Liu
 Computer Vision and Image Understanding (CVIU), 2024<br>
 Yu Liu, Jianghao Li, <u>Yanyi Zhang</u>, Qi Jia, Weimin Wang, Nan Pu, Nicu Sebe
 
-<img src="https://img.shields.io/badge/Under Review-54b345?style=flat-square"> **Time Series Class-Incremental Learning Via Temporal and Visual Joint Representation**<br>
-Jinping Sui, Hui Wang, <u>Yanyi Zhang</u>, Qi Jia, Yitao Wang, Yu Liu
-
 ## 📄Resources
 
 [Awesome Compositional Zero-Shot](https://github.com/Yanyi-Zhang/Awesome-Compositional-Zero-Shot) ![GitHub](https://img.shields.io/github/stars/Yanyi-Zhang/Awesome-Compositional-Zero-Shot.svg?style=social)
@@ -54,6 +51,7 @@ Apr 28, 2026 — Speaker, Google Pixel Biometrics Seminar, Mountain View, CA
 
 ### Conference Reviewer
 * Annual Conference on Neural Information Processing Systems (NeurIPS)
+* International Conference on Learning Representations (ICLR)
 * International Joint Conference on Artificial Intelligence (IJCAI)
 * European Conference on Artificial Intelligence (ECAI)
 * International Joint Conference on Neural Networks (IJCNN)
